@@ -1,0 +1,7 @@
+React navigation is for multiple screens and their navigation.
+
+CONTEXT - 
+moves information from a parent to some nested child
+complicated to setup, lots of special terms 
+easy to comminicate data from a parent to a super nested child
+
